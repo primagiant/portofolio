@@ -1,0 +1,10 @@
+POST http://localhost/portofolio/login
+Content-Type: application/json
+
+{
+    'email': 'super.admin@porto.id'.
+    'password': 'password'
+}
+
+###
+GET http://localhost/portofolio/api/fakultas

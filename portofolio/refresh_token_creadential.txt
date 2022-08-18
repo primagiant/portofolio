@@ -1,0 +1,15 @@
+{
+  "client_id": "444435603656-dmlfephoidgmp6ke28ah6jmrptco7epi.apps.googleusercontent.com",
+  "client_secret": "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"
+  "access_token": "ya29.a0ARrdaM8B0I6TGRM9vK2u3vZw5kwOc5Epfun5ycn3HUGlLsLylsq4vMFrGtB_u6sS5ROydp7xk-wc1GR-EtO8mDnwsMUw5dSw2D5NvJ9pm91gq1hnbX66GlOY2KOG6t4XTIm-wQLFzBb73EDsJJYGRl9RAZNk", 
+  "scope": "https://www.googleapis.com/auth/drive.metadata.readonly https://www.googleapis.com/auth/drive.scripts https://www.googleapis.com/auth/drive.appdata https://www.googleapis.com/auth/drive https://www.googleapis.com/auth/drive.readonly https://www.googleapis.com/auth/drive.file https://www.googleapis.com/auth/drive.metadata https://www.googleapis.com/auth/drive.photos.readonly", 
+  "token_type": "Bearer", 
+  "expires_in": 3599, 
+  "refresh_token": "1//04mF7gWKnAC8fCgYIARAAGAQSNwF-L9IrjFmaJJHXMUHmTysj8XgwOdlDeA4Wxqz16wj_5s11QDICKCHxirPwIDasOhNTEl_Bmqo"
+}
+
+
+GOOGLE_DRIVE_CLIENT_ID=444435603656-dmlfephoidgmp6ke28ah6jmrptco7epi.apps.googleusercontent.com
+GOOGLE_DRIVE_CLIENT_SECRET=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
+GOOGLE_DRIVE_REFRESH_TOKEN=1//04mF7gWKnAC8fCgYIARAAGAQSNwF-L9IrjFmaJJHXMUHmTysj8XgwOdlDeA4Wxqz16wj_5s11QDICKCHxirPwIDasOhNTEl_Bmqo
+GOOGLE_DRIVE_FOLDER_ID=1IjIPS_RXUVL260oieOwcYeEY7eL9Z2Ab
